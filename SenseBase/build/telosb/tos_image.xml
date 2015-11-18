@@ -1,13 +1,13 @@
 <tos_image>
   <ident>
-    <timestamp>564A18A9L</timestamp>
-    <userhash>376DD4D7L</userhash>
-    <deluge_support>no</deluge_support>
-    <username>nicolai</username>
     <appname>/home/nicolai/w</appname>
-    <hostname>nicolai-virtual</hostname>
-    <uidhash>7A3ED38EL</uidhash>
+    <uidhash>BC19F99DL</uidhash>
     <platform>telosb</platform>
+    <userhash>376DD4D7L</userhash>
+    <username>nicolai</username>
+    <hostname>nicolai-virtual</hostname>
+    <timestamp>564CB003L</timestamp>
+    <deluge_support>no</deluge_support>
   </ident>
   <image format="ihex">
 :104000005542200135D0085A82450011314000390F

@@ -15,8 +15,8 @@ typedef nx_struct status_msg {
 } status_msg_t;
 
 enum {
-  AM_CHUNK_MSG_T = 0x8A,
-  AM_STATUS_MSG_T = 0x8B,
+  AM_CHUNK_MSG = 0x8A,
+  AM_STATUS_MSG = 0x8B,
 };
 
 enum {
